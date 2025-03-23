@@ -1,7 +1,7 @@
 ## Hi there 👋
-🧑‍💻 I'm a product designer with engineering background.
-🌱 I released two apps using Python and Ruby.
-📕 My online book on creating apps with Python and JavaScript has sold to over 50 users on the Japanese platforms [Zenn](https://zenn.dev/fujiikayo/books/fc501522bcff6e) and [note](https://note.com/kcatyo/m/mc4a622868c73).
+🧑‍💻 I'm a product designer with engineering background.  
+🌱 I released two apps using Python and Ruby.  
+📕 My online book on creating apps with Python and JavaScript has sold to over 50 users on the Japanese platforms [Zenn](https://zenn.dev/fujiikayo/books/fc501522bcff6e) and [note](https://note.com/kcatyo/m/mc4a622868c73).  
 
 <!--
 **kayofujii/kayofujii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
