@@ -1,5 +1,5 @@
 ## Hi there 👋
-🧑‍💻 I'm a web developer and designer with five years of experience.
+🧑‍💻 I'm a web developer and designer with five years of experience.  
 🌱 I released two apps using Python and Ruby.  
 📕 My online book on creating apps with Python and JavaScript has sold to over 50 users on the Japanese platforms [Zenn](https://zenn.dev/fujiikayo/books/fc501522bcff6e) and [note](https://note.com/kcatyo/m/mc4a622868c73).  
 
