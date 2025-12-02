@@ -1,5 +1,5 @@
 # Hi, I'm Kayo 👋  
-🧑‍💻 Web Developer & Designer with 5 years of experience  
+🧑‍💻 Web Developer & Designer with over 5 years of experience  
 
 ## 🛠 Tech Stack
 **Languages & Frameworks:** Ruby (Rails), Python, JavaScript (Vue.js, React.js), HTML, CSS, SQL (MySQL, PostgreSQL)  
