@@ -2,9 +2,9 @@
 🧑‍💻 Web Developer & Designer with over 5 years of experience  
 
 ## 🛠 Tech Stack
-**Languages & Frameworks:** Ruby (Rails), Python, JavaScript (Vue.js, React.js), HTML, CSS, SQL (MySQL, PostgreSQL)  
+**Languages & Frameworks:** Ruby (Rails), Python, PHP, JavaScript (Vue.js, React.js), HTML/CSS, SQL (MySQL, PostgreSQL)
 **Cloud & DevOps:** AWS, Google Cloud, Docker  
-**Design & Tools:** Figma, Adobe Creative Suite, WordPress  
+**Design & Tools:** Figma, Adobe Creative Suite, WordPress, Shopify
 
 ## 🌱 Side Projects
 
