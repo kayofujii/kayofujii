@@ -2,9 +2,16 @@
 🧑‍💻 Web Developer & Designer with over 5 years of experience  
 
 ## 🛠 Tech Stack
-**Languages & Frameworks:** Ruby (Rails), Python, PHP, JavaScript (Vue.js, React.js), HTML/CSS, SQL (MySQL, PostgreSQL)
-**Cloud & DevOps:** AWS, Google Cloud, Docker  
-**Design & Tools:** Figma, Adobe Creative Suite, WordPress, Shopify
+**Languages & Frameworks**: JavaScript (Vue.js, React.js, jQuery), HTML/CSS, Ruby (Rails), Python, PHP, SQL (MySQL, PostgreSQL)
+**CMS & E-commerce**: WordPress, WooCommerce, Elementor, Shopify, Contentful, Headless CMS
+**Cloud & DevOps**: AWS, Google Cloud, Docker, Vercel, GitHub
+**Design & Tools**: Figma, Adobe Creative Suite, Canva
+**UX & UI Design**: User Research, Usability Testing, User-Centred Design, Accessibility (WCAG), Wireframing, Prototyping, Mockups, Design Systems, Responsive Design
+**Marketing & Analytics**: SEO, GA4, Conversion Rate Optimization, Copywriting, Product Photography
+
+
+## 🎨 Portfolio
+Check out my design work and case studies here: [My Portfolio](https://kayofujii.studio.site)
 
 ## 🌱 Side Projects
 
@@ -31,9 +38,6 @@ I organize a YouTube channel for programming beginners, sharing tutorials on por
 <div style="margin-bottom: 16px;">
   <img src="./images/youtube.png" alt="YouTube Screenshot" width="400"/>
 </div>
-
-## 🎨 Portfolio
-Check out my design work and case studies here: [My Portfolio](https://kayofujii.studio.site)
 
 ## ⚡ Fun Fact
 I love creating products that combine design, development, and real-world impact. Always learning and experimenting with new ideas!
