@@ -2,12 +2,13 @@
 🧑‍💻 Web Developer & Designer with over 5 years of experience  
 
 ## 🛠 Tech Stack
-**Languages & Frameworks**: JavaScript (Vue.js, React.js, jQuery), HTML/CSS, Ruby (Rails), Python, PHP, SQL (MySQL, PostgreSQL)
-**CMS & E-commerce**: WordPress, WooCommerce, Elementor, Shopify, Contentful, Headless CMS
-**Cloud & DevOps**: AWS, Google Cloud, Docker, Vercel, GitHub
-**Design & Tools**: Figma, Adobe Creative Suite, Canva
-**UX & UI Design**: User Research, Usability Testing, User-Centred Design, Accessibility (WCAG), Wireframing, Prototyping, Mockups, Design Systems, Responsive Design
-**Marketing & Analytics**: SEO, GA4, Conversion Rate Optimization, Copywriting, Product Photography
+
+**Languages & Frameworks:** Ruby (Rails), Python, PHP, JavaScript (Vue.js, React.js, jQuery), HTML/CSS, SQL (MySQL, PostgreSQL)
+**Cloud & DevOps:** AWS, Google Cloud, Docker, Vercel, GitHub
+**CMS & E-commerce:** WordPress, WooCommerce, Elementor, Shopify, Contentful, Headless CMS
+**Design & Tools:** Figma, Adobe Creative Suite, Canva
+**UX & UI Design:** User Research, Usability Testing, User-Centred Design, Accessibility (WCAG), Wireframing, Prototyping, Mockups, Design Systems, Responsive Design
+**Marketing & Analytics:** SEO, GA4, Conversion Rate Optimization, Copywriting, Product Photography
 
 
 ## 🎨 Portfolio
