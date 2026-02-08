@@ -12,7 +12,7 @@
 
 
 ## 🎨 Portfolio
-Check out my design work and case studies here: [My Portfolio](https://kayofujii.studio.site)
+Check out my design work and case studies here: [kayofujii.vercel.app](https://kayofujii.vercel.app/)
 
 ## 🌱 Side Projects
 
