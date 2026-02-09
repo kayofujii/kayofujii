@@ -3,7 +3,7 @@
 
 ## 🛠 Tech Stack
 
-**Languages & Frameworks:** Ruby (Rails), Python, PHP, JavaScript (Vue.js, React.js, jQuery), HTML/CSS, SQL (MySQL, PostgreSQL)
+**Languages & Frameworks:** Ruby (Rails), Python, PHP, JavaScript (Vue.js, React.js, Next.js, jQuery, Node.js), HTML/CSS, SQL (MySQL, PostgreSQL)
 **Cloud & DevOps:** AWS, Google Cloud, Docker, Vercel, GitHub
 **CMS & E-commerce:** WordPress, WooCommerce, Elementor, Shopify, Contentful, Headless CMS
 **Design & Tools:** Figma, Adobe Creative Suite, Canva
@@ -12,7 +12,11 @@
 
 
 ## 🎨 Portfolio
-Check out my design work and case studies here: [kayofujii.vercel.app](https://kayofujii.vercel.app/)
+<div style="margin-bottom: 16px;">
+  <img src="./images/portfolio.png" alt="Portfolio Website Screenshot" width="400"/>
+</div>
+
+Check out my work here: [Portfolio](https://kayofujii.vercel.app/).
 
 ## 🌱 Side Projects
 
@@ -29,15 +33,9 @@ An app that allows users to simulate “trying on clothes” online by uploading
 </div>
 
 ## 📚 Online Book
-My book on creating apps with Python and JavaScript has been sold to over 50 users on Japanese platforms [Zenn](https://zenn.dev/fujiikayo/books/fc501522bcff6e) and [note](https://note.com/kcatyo/m/mc4a622868c73).  
+My book on creating apps with Django(Python) and Vue.js has been sold to over 50 users on Japanese platforms [Zenn](https://zenn.dev/fujiikayo/books/fc501522bcff6e) and [note](https://note.com/kcatyo/m/mc4a622868c73).  
 <div style="margin-bottom: 16px;">
   <img src="./images/book.png" alt="Book Screenshot" width="400"/>
-</div>
-
-## 🎥 [YouTube Channel](https://www.youtube.com/@channel-tb8xu/videos)
-I organize a YouTube channel for programming beginners, sharing tutorials on portfolio creation, programming languages, book summaries, and career advice for engineers. Over 2,000 subscribers.  
-<div style="margin-bottom: 16px;">
-  <img src="./images/youtube.png" alt="YouTube Screenshot" width="400"/>
 </div>
 
 ## ⚡ Fun Fact
