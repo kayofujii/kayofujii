@@ -3,12 +3,12 @@
 
 ## 🛠 Tech Stack
 
-**Languages & Frameworks:** Ruby (Rails), Python, PHP, JavaScript (Vue.js, React.js, Next.js, jQuery, Node.js), HTML/CSS, SQL (MySQL, PostgreSQL)
-**Cloud & DevOps:** AWS, Google Cloud, Docker, Vercel, GitHub
-**CMS & E-commerce:** WordPress, WooCommerce, Elementor, Shopify, Contentful, Headless CMS
-**Design & Tools:** Figma, Adobe Creative Suite, Canva
-**UX & UI Design:** User Research, Usability Testing, User-Centred Design, Accessibility (WCAG), Wireframing, Prototyping, Mockups, Design Systems, Responsive Design
-**Marketing & Analytics:** SEO, GA4, Conversion Rate Optimization, Copywriting, Product Photography
+**Languages & Frameworks:** Ruby (Rails), Python, PHP, JavaScript (Vue.js, React.js, Next.js, jQuery, Node.js), HTML/CSS, SQL (MySQL, PostgreSQL) <br>
+**Cloud & DevOps:** AWS, Google Cloud, Docker, Vercel, GitHub <br>
+**CMS & E-commerce:** WordPress, WooCommerce, Elementor, Shopify, Contentful, Headless CMS <br>
+**Design & Tools:** Figma, Adobe Creative Suite, Canva <br>
+**UX & UI Design:** User Research, Usability Testing, User-Centred Design, Accessibility (WCAG), Wireframing, Prototyping, Mockups, Design Systems, Responsive Design <br>
+**Marketing & Analytics:** SEO, GA4, Conversion Rate Optimization, Copywriting, Product Photography <br>
 
 
 ## 🎨 Portfolio
