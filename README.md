@@ -5,6 +5,7 @@
 
 **Languages & Frameworks:** Ruby (Rails), Python, PHP, JavaScript (Vue.js, React.js, Next.js, jQuery, Node.js), HTML/CSS, SQL (MySQL, PostgreSQL) <br>
 **Cloud & DevOps:** AWS, Google Cloud, Docker, Vercel, GitHub <br>
+**Testing & QA:** Cypress, RSpec, Postman, JIRA, Linear, Test Automation, Manual Testing <br>
 **CMS & E-commerce:** WordPress, WooCommerce, Elementor, Shopify, Contentful, Headless CMS <br>
 **Design & Tools:** Figma, Adobe Creative Suite, Canva <br>
 **UX & UI Design:** User Research, Usability Testing, User-Centred Design, Accessibility (WCAG), Wireframing, Prototyping, Mockups, Design Systems, Responsive Design <br>
@@ -24,12 +25,6 @@ Check out my work here: [Portfolio](https://kayofujii.vercel.app/).
 A web application to set goals and to-dos. Users can view others' goals for motivation and inspiration.  
 <div style="margin-bottom: 16px;">
   <img src="./images/tumiki.png" alt="Tumiki Screenshot" width="400"/>
-</div>
-
-### [AI Fitting](https://github.com/kayofujii/ai_fitting)
-An app that allows users to simulate “trying on clothes” online by uploading their image and clothing items. Built with OpenCV for image processing.  
-<div style="margin-bottom: 16px;">
-  <img src="./images/ai_fitting.png" alt="AI Fitting Screenshot" width="400"/>
 </div>
 
 ## 📚 Online Book
