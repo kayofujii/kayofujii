@@ -5,7 +5,7 @@
 
 **Languages & Frameworks:** Ruby (Rails), Python, PHP, JavaScript (Vue.js, React.js, Next.js, jQuery, Node.js), HTML/CSS, SQL (MySQL, PostgreSQL) <br>
 **Cloud & DevOps:** AWS, Google Cloud, Docker, Vercel, GitHub <br>
-**Testing & QA:** Cypress, RSpec, Postman, JIRA, Linear, Test Automation, Manual Testing <br>
+**Testing & QA:** Cypress, RSpec, Postman, Playwright, Test Automation, Manual Testing <br>
 **CMS & E-commerce:** WordPress, WooCommerce, Elementor, Shopify, Contentful, Headless CMS <br>
 **Design & Tools:** Figma, Adobe Creative Suite, Canva <br>
 **UX & UI Design:** User Research, Usability Testing, User-Centred Design, Accessibility (WCAG), Wireframing, Prototyping, Mockups, Design Systems, Responsive Design <br>
