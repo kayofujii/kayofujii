@@ -3,7 +3,7 @@
 
 ## 🛠 Tech Stack
 
-**Languages & Frameworks:** Ruby (Rails), Python, PHP, JavaScript (Vue.js, React.js, Next.js, jQuery, Node.js), HTML/CSS, SQL (MySQL, PostgreSQL) <br>
+**Languages & Frameworks:** Ruby (Rails), Python, PHP, JavaScript (Vue.js, React.js, Next.js, jQuery, Node.js), HTML/CSS, SQL (MySQL, PostgreSQL),Liquid <br>
 **Cloud & DevOps:** AWS, Google Cloud, Docker, Vercel, GitHub <br>
 **Testing & QA:** Cypress, RSpec, Postman, Playwright, Test Automation, Manual Testing <br>
 **CMS & E-commerce:** WordPress, WooCommerce, Elementor, Shopify, Contentful, Headless CMS <br>
