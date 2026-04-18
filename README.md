@@ -2,15 +2,34 @@
 🧑‍💻 Web Developer & Designer with over 5 years of experience  
 
 ## 🛠 Tech Stack
+**Languages & Frameworks**
+- Ruby (Rails), Python, PHP  
+- JavaScript (Vue.js, React.js, Next.js, Node.js, jQuery)  
+- HTML/CSS, SQL (MySQL, PostgreSQL), Liquid  
 
-**Languages & Frameworks:** Ruby (Rails), Python, PHP, JavaScript (Vue.js, React.js, Next.js, jQuery, Node.js), HTML/CSS, SQL (MySQL, PostgreSQL),Liquid <br>
-**Cloud & DevOps:** AWS, Google Cloud, Docker, Vercel, GitHub <br>
-**Testing & QA:** Cypress, RSpec, Postman, Playwright, Test Automation, Manual Testing <br>
-**CMS & E-commerce:** WordPress, WooCommerce, Elementor, Shopify, Contentful, Headless CMS <br>
-**Design & Tools:** Figma, Adobe Creative Suite, Canva <br>
-**UX & UI Design:** User Research, Usability Testing, User-Centred Design, Accessibility (WCAG), Wireframing, Prototyping, Mockups, Design Systems, Responsive Design <br>
-**Marketing & Analytics:** SEO, GA4, Conversion Rate Optimization, Copywriting, Product Photography <br>
+**Cloud & DevOps**
+- AWS, Google Cloud, Docker, Vercel, GitHub  
 
+**Testing & QA**
+- Cypress, RSpec, Playwright, Postman  
+- Test automation, manual testing  
+
+**CMS & E-commerce**
+- WordPress, WooCommerce, Elementor  
+- Shopify, Contentful, Headless CMS  
+
+**Design & Tools**
+- Figma, Adobe Creative Suite, Canva  
+
+**UX & UI Design**
+- User research, usability testing  
+- Wireframing, prototyping, mockups  
+- Design systems, responsive design  
+- Accessibility (WCAG), user-centered design  
+
+**Marketing & Analytics**
+- SEO, GA4, CRO (conversion rate optimization)  
+- Copywriting, product photography  
 
 ## 🎨 Portfolio
 <div style="margin-bottom: 16px;">
